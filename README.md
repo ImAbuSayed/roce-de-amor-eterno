@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-amor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Roce de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-amor-eterno/) |
+| **Get License** | [Commercial Licensing for Roce de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-amor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero sentir tu calor cuando cae la madrugada, baby
+> Ese roce de tu piel que me deja el alma atada
+> You know I want you, ven y apaga ya la luz
+> Nadie me quema en la disco de la forma en que lo haces tú
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
